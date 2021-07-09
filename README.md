@@ -21,7 +21,7 @@ code .
 Pull requestler kabul edilir. Büyük değişikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için konu açınız.
 
 ## License
-[Mit](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
 
