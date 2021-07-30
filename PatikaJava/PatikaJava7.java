@@ -1,6 +1,5 @@
 package PatikaJava;
 
-import java.security.DomainCombiner;
 import java.util.Scanner;
 
 public class PatikaJava7 {
