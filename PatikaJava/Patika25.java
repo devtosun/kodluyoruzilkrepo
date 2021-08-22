@@ -60,5 +60,6 @@ public class Patika25 {
                 }
             }
         }
+        input.close();
     }
 }
