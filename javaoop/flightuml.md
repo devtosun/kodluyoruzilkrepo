@@ -1,6 +1,6 @@
 # Uçuş Yönetim Sistemi
 
-![GitHub Proje](./img/flightuml.png)
+![GitHub Proje](./img/flight.png)
 Format: ![github](url)
 
 
